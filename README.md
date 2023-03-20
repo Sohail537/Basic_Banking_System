@@ -5,7 +5,7 @@ A ledger is maintained for each of the customers.
 
 Languages Used:- HTML5, CSS3, JavaScript
 
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
-![Screenshot](screenshot4.png)
+![Screenshot](https://github.com/Sohail537/Basic_Banking_System/blob/main/Screenshot1.png)
+![Screenshot](https://github.com/Sohail537/Basic_Banking_System/blob/main/Screenshot2.png)
+![Screenshot](https://github.com/Sohail537/Basic_Banking_System/blob/main/Screenshot3.png)
+![Screenshot](https://github.com/Sohail537/Basic_Banking_System/blob/main/Screenshot4.png)
